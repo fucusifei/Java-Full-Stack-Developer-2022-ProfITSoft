@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cac29917-2d86-4e5c-91e4-d6619fb4f72e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/ListPlusArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/figure/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/figure/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/figure/Figure3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/figure/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/yevdokymov/ListPlusArraysTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gz5KHxynAGTlC30wE5WfR2kJac" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "D:/gitlabProj/bogdan.evdokymov/00_calculator"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yevdokymov.figure" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.yevdokymov" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ListPlusArraysTest.testFindHash">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yevdokymov.Main" />
+      <module name="JavaFullStackDeveloperL1-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yevdokymov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListPlusArraysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFullStackDeveloperL1-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yevdokymov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yevdokymov" />
+      <option name="MAIN_CLASS_NAME" value="com.yevdokymov.ListPlusArraysTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListPlusArraysTest.testFindHash" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFullStackDeveloperL1-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yevdokymov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yevdokymov" />
+      <option name="MAIN_CLASS_NAME" value="com.yevdokymov.ListPlusArraysTest" />
+      <option name="METHOD_NAME" value="testFindHash" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListPlusArraysTest.testSortFigure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFullStackDeveloperL1-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yevdokymov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yevdokymov" />
+      <option name="MAIN_CLASS_NAME" value="com.yevdokymov.ListPlusArraysTest" />
+      <option name="METHOD_NAME" value="testSortFigure" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListPlusArraysTest.testSortFigure2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaFullStackDeveloperL1-2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yevdokymov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.yevdokymov" />
+      <option name="MAIN_CLASS_NAME" value="com.yevdokymov.ListPlusArraysTest" />
+      <option name="METHOD_NAME" value="testSortFigure2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ListPlusArraysTest.testFindHash" />
+        <item itemvalue="JUnit.ListPlusArraysTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ListPlusArraysTest.testSortFigure2" />
+        <item itemvalue="JUnit.ListPlusArraysTest.testSortFigure" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cac29917-2d86-4e5c-91e4-d6619fb4f72e" name="Changes" comment="" />
+      <created>1667378507394</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667378507394</updated>
+      <workItem from="1667378508587" duration="3848000" />
+      <workItem from="1667399576544" duration="649000" />
+      <workItem from="1667460679145" duration="3252000" />
+      <workItem from="1667721863276" duration="16784000" />
+      <workItem from="1667739695084" duration="15000" />
+      <workItem from="1667747779128" duration="3639000" />
+      <workItem from="1668269376995" duration="1209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
