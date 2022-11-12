@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cac29917-2d86-4e5c-91e4-d6619fb4f72e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/ListPlusArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/figure/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/figure/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/figure/Figure3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/figure/Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/yevdokymov/ListPlusArraysTest.java" afterDir="false" />
+    <list default="true" id="cac29917-2d86-4e5c-91e4-d6619fb4f72e" name="Changes" comment="end project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yevdokymov/ListPlusArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/yevdokymov/ListPlusArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yevdokymov/ListPlusArraysTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/yevdokymov/ListPlusArraysTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,18 +35,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "D:/gitlabProj/bogdan.evdokymov/00_calculator"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/gitlabProj/bogdan.evdokymov/00_calculator&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.yevdokymov.figure" />
@@ -172,8 +160,17 @@
       <workItem from="1667721863276" duration="16784000" />
       <workItem from="1667739695084" duration="15000" />
       <workItem from="1667747779128" duration="3639000" />
-      <workItem from="1668269376995" duration="1209000" />
+      <workItem from="1668269376995" duration="2134000" />
+      <workItem from="1668272400307" duration="4294000" />
     </task>
+    <task id="LOCAL-00001" summary="end project">
+      <created>1668270752883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668270752883</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,5 +186,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="end project" />
+    <option name="LAST_COMMIT_MESSAGE" value="end project" />
   </component>
 </project>

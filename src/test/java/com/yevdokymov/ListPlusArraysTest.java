@@ -33,18 +33,18 @@ public class ListPlusArraysTest {
     @Test
     public void testFindHash() {
         listPlusArrays = new ListPlusArrays();
-        Map<String,Integer> result = new HashMap<>(Map.of("#that",4, "#java",4, "#to", 4, "#the" , 3, "#and" , 2));
+        Map<String,Integer> result = new HashMap<>(Map.of("that",4, "java",4, "to", 4, "the" , 3, "and" , 2));
         String a = listPlusArrays.findHash(text).toString();
-        Assert.assertEquals(a,"{#that=4, #java=4, #to=4, #the=3, #and=2}");
+        Assert.assertEquals(a,"{that=4, java=4, to=4, the=3, and=2}");
         Assert.assertEquals( listPlusArrays.findHash(text),result);
     }
     @Test
     public void testFindHash2() {
         listPlusArrays = new ListPlusArrays();
         text.add("#Java is a high-level, class-based, object-oriented #programming language #that is designed #to have as few implementation dependencies as possible. It is a general-purpose #programming language intended #to let");
-        Map<String,Integer> result = new HashMap<>(Map.of("#that",5, "#java",5, "#to", 5, "#programming" , 3, "#the" , 3));
+        Map<String,Integer> result = new HashMap<>(Map.of("that",5, "java",5, "to", 5, "programming" , 3, "the" , 3));
         String a = listPlusArrays.findHash(text).toString();
-        Assert.assertEquals(a,"{#that=5, #java=5, #to=5, #programming=3, #the=3}");
+        Assert.assertEquals(a,"{that=5, java=5, to=5, programming=3, the=3}");
         Assert.assertEquals( listPlusArrays.findHash(text),result);
     }
     @Test
@@ -80,7 +80,7 @@ public class ListPlusArraysTest {
     }
     @Before
     public void setUp() throws Exception {
-        text.add("#Java is a high-level, class-based, object-oriented #programming language #that is designed #to have as few implementation dependencies as possible. It is a general-purpose #programming language intended #to let");
+        text.add("#Java, is a high-level, class-based, object-oriented #programming language #that is designed #to have as few implementation dependencies as possible. It is a general-purpose #programming language intended #to let");
         text.add("programmers write once, run anywhere (WORA), meaning #that compiled #Java code can run on all platforms #that support #Java without #the need #to recompile. #Java applications are typically compiled #to #bytecode");
         text.add("#that can run on any #Java #virtual machine (JVM) regardless #of #the underlying computer architecture. #The syntax #of #Java is similar #to C #and C++, but has fewer low-level facilities than either #of them. #The #Java runtime");
         text.add("provides dynamic capabilities (such as reflection #and runtime code modification) #that are typically not available in traditional compiled languages. As #of 2019, #Java was one #of #the most popular #programming languages");

@@ -38,13 +38,17 @@ public class ListPlusArrays {
     public Map<String,Integer> findHash (List<String> text) {
         Map<String,Integer> result = new HashMap<>();
         for (String oneString:text) {
-            String[] splitText = oneString.replaceAll("[!,?.]","").split(" ");
+            String[] splitText = oneString.split(" ");
+
             List<String> wordsWithHash = Arrays.stream(splitText).
                     filter(x -> x.startsWith("#")).
                     map(String::toLowerCase).
                     distinct().toList();
             for (String oneWord: wordsWithHash) {
-                result.merge(oneWord,1,Integer::sum);
+                //из-за сплита по пробелу могут попасться слова с знаками припинания и так далее
+                //replaceAll избавляется от знаков
+                String replacedWord = oneWord.replaceAll("\\W","");
+                result.merge(replacedWord,1,Integer::sum);
             }
         }
         return  result.entrySet().
